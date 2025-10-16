@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.salmon {
+    background-color: salmon;
+    font: "Verdana";
+}
+
+#cool {
+    font-size: 24px;
+}
+
+#strange1 {
+    font-size: 36px;
+    color: blue;
+}
+
+#strange2 {
+    font-weight: bold;
+    background-color: lightgreen;
+    font-size: 24px;
+}
